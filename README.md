@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning react native
 - 💞️ I’m looking to collaborate on a programming compony
 - 📫 How to reach me https://AlirezaAbd-dev.vercel.app/
-<div align="center">
-  <img align='center' src="https://github-readme-stats.vercel.app/api?username=0AliReza0" alt="stats" />
-  
-  <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=0AliReza0&layout=compact" alt="most used languages" />
-</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0AliReza0)](https://github.com/0AliReza0/README.md)
+[![0AliReza0 GitHub stats](https://github-readme-stats.vercel.app/api?username=0AliReza0)](https://github.com/0AliReza0/0AliReza0/README.md)
