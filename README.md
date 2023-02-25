@@ -4,5 +4,10 @@
 - 💞️ I’m looking to collaborate on a programming compony
 - 📫 How to reach me https://AlirezaAbd-dev.vercel.app/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaAbd-dev)](https://github.com/AlirezaAbd-dev/README.md)
-[![AlirezaAbd-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=AlirezaAbd-dev)](https://github.com/AlirezaAbd-dev/0AliReza0/README.md)
+<br/>
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaAbd-dev" />
+<br/> 
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=AlirezaAbd-dev" />
+</div>
