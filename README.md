@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0AliReza0
 - 👀 I’m interested in javascript programming language
-- 🌱 I’m currently learning react native
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on a programming compony
 - 📫 How to reach me https://AlirezaAbd-dev.vercel.app/
 
