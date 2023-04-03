@@ -10,8 +10,11 @@
 
 <br/>
 <div align="center" style="display: flex; flex-direction: column; align-items: center;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaAbd-dev" />
-<br/> 
-<br/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=AlirezaAbd-dev" />
+</div>
+ <br/> 
+<br/>
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaAbd-dev" />
 </div>
