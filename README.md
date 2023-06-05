@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hi, I’m AlirezaAbd-dev</h1>
-<h2 style="text-align: center;">
+<h2 align="center" style="text-align: center;">
 I love programming and making things as all programmers do and i'm interested to web development and edge technologies.
 </h2>
 <br/>
 
 <h3 align="center">I have a portfolio website that i would be happy if you see this: <br/><a href="https://AlirezaAbd-dev.vercel.app/">AlirezaAbd-Dev.vercel.app</a></h3>
 
-<div align="center" style="width:40%; margin: 0 auto;">
+<div align="center" width="50%" style="width:40%; margin: 0 auto;">
     <a href="https://www.coffeebede.com/alirezaabd-dev"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
 </div>
 
