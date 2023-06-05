@@ -73,10 +73,7 @@ I love programming and making things as all programmers do and i'm interested to
     <img src="https://img.shields.io/badge/Deno-464647?style=for-the-badge&logo=deno&logoColor=white" />
     <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
     <img src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white" />
-    <img src="	https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-    <img src="" />
-    <img src="" />
-    <img src="" />
+    <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 </div>
 
 <br/>
