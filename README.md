@@ -80,6 +80,8 @@ I love programming and making things as all programmers do and i'm interested to
 <br/>
 <br/>
 
+<h1 align="center">Statistics</h1>
+
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=AlirezaAbd-Dev&theme=dark" />
 </div>
