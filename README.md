@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m AlirezaAbd-dev</h1>
-<img src="./images/Programmer-rafiki.png" alt="banner" style="margin-top: -50px;J" />
-<h2 align="center" style="text-align: center; margin-top: -50px;">
+<img src="./images/Programmer-rafiki.png" alt="banner" />
+<h2 align="center">
 I love programming and making things as all programmers do and i'm interested to web development and edge technologies.
 </h2>
 <br/>
