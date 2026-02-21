@@ -34,29 +34,6 @@
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-### ⚙️ Backend & Systems Engineering
-![](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![](https://img.shields.io/badge/tRPC-%23007ACC.svg?style=for-the-badge)
-![](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)
-
-### 🗄️ Database & State Management
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
-![](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=React_Query&logoColor=white)
-
-### 🛠️ Tools & Environments
-![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
-![](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
-
 ---
 
 ## 📈 Engineering Metrics
@@ -66,8 +43,8 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlirezaAbd-Dev&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaAbd-Dev&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://readme-stats-fast.vercel.app/api?username=AlirezaAbd-Dev&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=AlirezaAbd-Dev&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlirezaAbd-Dev&theme=tokyo-night&area=true" width="100%" />
@@ -77,10 +54,10 @@
 ## 📫 Let's Connect
 
 <p align="center">
-<a href="https://instagram.com/alirezaabd.dev?igshid=ZGUzMzM3NWJiOQ==">
+<a href="https://instagram.com/alirezaabd.dev">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="https://twitter.com/AlirezaAbdDev?t=K1pmd9sno2zlZvZZQAEwBg&s=09">
+<a href="https://twitter.com/AlirezaAbdDev">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" >
 </a>
 <a href="https://www.linkedin.com/in/alireza-abedi-714280235">
