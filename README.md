@@ -12,7 +12,7 @@
 <br><br>
 
 <!-- Gateway & Support -->
-<a href="https://AlirezaAbd-dev.vercel.app/">
+<a href="https://alireza-abedi.ir/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 &nbsp;
