@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E8FF,50:0080FF,100:1a1a1a&height=170&section=header&text=Alireza%20Abedi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=%E2%9A%A1%20Full-Stack%20%26%20Systems%20Architect%20%7C%20Applied%20AI%20%26%20Edge-Tech%20Engineer&descAlignY=55&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E8FF,50:0080FF,100:1a1a1a&height=170&section=header&text=Alireza%20Abedi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=%E2%9A%A1%20Full-Stack%20Architect%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20Edge-Tech%20Engineer&descAlignY=55&descSize=16" width="100%" />
 
 <!-- GIF / Visual Branding -->
 <img src="images/dark-programmer.gif" width="450" alt="Coding GIF" />
@@ -194,9 +194,16 @@ I build real-world AI applications that go far beyond basic API wrappers, design
   </tr>
 </table>
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlirezaAbd-Dev&theme=tokyo-night&area=true&hide_border=true" width="90%" />
+<table border="0" align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlirezaAbd-Dev&theme=tokyonight" width="370" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlirezaAbd-Dev&theme=tokyonight" width="370" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
